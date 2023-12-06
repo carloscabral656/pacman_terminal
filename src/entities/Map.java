@@ -7,6 +7,7 @@ public class Map {
 	protected Integer height;
 	protected Integer width;
 	protected ArrayList<Integer> obstacles;
+	protected ArrayList<Integer> path;
 	protected ArrayList<Integer> orbs;
 	
 	
